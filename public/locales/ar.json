@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "dashboard": {
+      "welcomeMessage": "مرحبًا بك في ACA FOLLOW-UP"
+    }
+  },
+  "routes": {
+    "admin": {
+      "Dashboard": "لوحة القيادة",
+      "Users": "المستخدمون"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "dashboard": {
+      "welcomeMessage": "Welcome to our ACA FOLLOW-UP"
+    }
+  },
+  "routes": {
+    "admin": {
+      "Dashboard": "Dashboard",
+      "Users": "Users"
+    }
+  }
+}
